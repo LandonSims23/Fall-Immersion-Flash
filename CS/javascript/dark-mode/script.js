@@ -1,3 +1,5 @@
 function darkMode() {
-// Your code here.
+// Yofunction myFunction() {
+    var element = document.body;
+    element.classList.toggle("dark-mode")
 }
