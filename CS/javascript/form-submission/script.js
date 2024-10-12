@@ -3,5 +3,5 @@ function formSubmission() {
     addEventListener("submit", function(event){
     event.preventDefault()
     
- })e here.
+ })
 }
