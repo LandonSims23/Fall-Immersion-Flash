@@ -1,3 +1,7 @@
 function formSubmission() {
-    // Your code here.
+    // Your cod const form = document.getElementById('myForm');
+    addEventListener("submit", function(event){
+    event.preventDefault()
+    
+ })e here.
 }
